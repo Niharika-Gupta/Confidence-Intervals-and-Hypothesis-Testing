@@ -2,7 +2,7 @@
 
 Confidence interval is a type of interval estimate, computed from the statistics of the observed data, that might contain the true value of an unknown population parameter. A statistical hypothesis, sometimes called confirmatory data analysis, is a hypothesis that is testable on the basis of observing a process that is modeled via a set of random variables. A statistical hypothesis test is a method of statistical inference.
 
-Here in this repo we will work on hypothesis testing, confidence interval, calculation of errors, p-values and many more.
+Here in this repo we will work on coffee dataset for hypothesis testing, confidence interval, calculation of errors, p-values and many more.
 
 Here is a glimpse
 
